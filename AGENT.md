@@ -2,7 +2,7 @@
 
 ## Build Commands
 
-- Run a binary in XXX/YYY/FOOO: `go run ./XXX/YYY/FOOO` . Use this instead of build + ./XXX.
+- Run a binary in cmd/go-go-wm: `go run ./cmd/go-go-wm` . Use this instead of build + ./go-go-wm.
 - Build: `go build ./...`
 - Test: `go test ./...`
 - Run single test: `go test ./pkg/path/to/package -run TestName`
